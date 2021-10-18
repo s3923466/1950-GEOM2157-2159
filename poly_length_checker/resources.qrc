@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Poly_Length_Checker" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
